@@ -1,0 +1,1 @@
+# my part 2 is basically just the check_prob_dampner function in part 1. since it just added onto part 1, i didn't bother trying to do anything on this file
